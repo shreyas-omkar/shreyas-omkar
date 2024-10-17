@@ -15,20 +15,7 @@
 ## 🛠️ Tech Stack:
 <p>
  
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js" alt="Node.js" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus" alt="C++" />
-<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c" alt="C" />
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5" alt="HTML" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3" alt="CSS" />
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase" alt="Firebase" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
-<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite" alt="Vite" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </p>
 
 ---
@@ -45,7 +32,7 @@
 ## 📊 GitHub Stats:
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasHegde&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasHegde&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasHegde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
