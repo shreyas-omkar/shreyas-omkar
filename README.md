@@ -47,7 +47,7 @@
 - 📧 Email: shreyashegdeplus06@gmail.com  
 
 ---
-### Typing...
+## ⌨️ Typing...
 
 ![Typing GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGplNjNtbmZjenM4b2o2bno1cmhsdXc2dHR5aTY0NDVyb3g3YTJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cd3NTHbEBDfuE/giphy.gif)
 
