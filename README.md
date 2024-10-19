@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 **About Me:**
 - 🔭 I’m currently working on **MarketFlux**, a platform for Amazon and Flipkart vendors to manage inventory and market their products using Amazon SP-API, Flipkart’s API, and the MERN stack.
 - 👥 If you're interested in joining me on this project, feel free to email me: **shreyashegdeplus06@gmail.com**.
 - 🌱 I’m constantly learning new things, especially in web development and APIs.
