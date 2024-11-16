@@ -9,6 +9,7 @@
 - 👥 If you're interested in joining me on this project, feel free to email me: **shreyashegdeplus06@gmail.com**.
 - 🌱 I’m constantly learning new things, especially in web development and APIs.
 - 🚗 Fun fact: I’m a nerd when it comes to **cars**!
+- 🗺️ I love **travelling**!
 
 ---
 
