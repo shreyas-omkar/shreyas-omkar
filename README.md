@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats:
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasHegde&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasHegde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-omkar)](https://github.com/shreyas-omkar/github-readme-stats)
 
 ---
