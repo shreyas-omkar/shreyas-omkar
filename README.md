@@ -1,56 +1,87 @@
-# Hi there, I'm Shreyas Hegde (Shaggy) 👋  
-
-**I love to innovate and build new ideas to bring changes in any field I’m targeting.**  
-
----
-
-## 🧑‍💻 **About Me:**
-- 🔭 I’m currently working on **MarketFlux**, a platform for Amazon and Flipkart vendors to manage inventory and market their products using Amazon SP-API, Flipkart’s API, and the MERN stack.
-- 👥 If you're interested in joining me on this project, feel free to email me: **shreyashegdeplus06@gmail.com**.
-- 🌱 I’m constantly learning new things, especially in web development and APIs.
-- 🚗 Fun fact: I’m a nerd when it comes to **cars**!
-- 🗺️ I love **travelling**!
+<h1 align="center">Hey, I'm Shreyas Hegde (Shaggy) 👋</h1>
+<p align="center">🚀 Innovating and building ideas to drive change.</p>
 
 ---
 
-## 🛠️ Tech Stack:
-<p>
- 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/GIT-3F3D56?style=for-the-badge&logo=git&logoColor=orangered) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C++](https://img.shields.io/badge/C++-1171E8.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/C-508FDD?style=for-the-badge&logo=c&logoColor=white)
+## 🧑‍💻 About Me
+
+I'm passionate about creating impactful solutions across domains—from startups to hackathons.  
+I love experimenting, learning, and building cool things that solve real problems.
+
+- 🔭 Currently working on **MarketFlux**, a platform for Amazon and Flipkart vendors.
+- ⚙️ Exploring Web3 technologies, APIs, and real-time systems.
+- 🚗 Car nerd | ✈️ Traveler | ☕ Coffee = Code fuel
+- 📫 Reach me: **shreyashegdeplus06@gmail.com**
+
+---
+
+## ⚙️ My Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,js,cpp,html,css,tailwind,bootstrap" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,netlify,postman,figma,vscode" />
+<br/>
+<img src="https://skillicons.dev/icons?i=polygon,thirdweb" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+Here are a few things I've been building:
+
+### [LiquidPay](https://github.com/shreyas-omkar/LiquidPay)
+**Real-time salary payout platform based on work contribution**
+- **Description:** Calculates payout by tracking GitHub, Jira, and Slack activity. Offers ML-backed budgeting insights.
+- **Stack:** React, Node.js, MongoDB, Thirdweb, Polygon  
+- **Status:** In development
+
+---
+
+### [Scriptocol](https://github.com/shreyas-omkar/Scriptocol)
+**AI CI/CD Bot for Developers**
+- **Description:** A GitHub App that auto-fixes errors, optimizes code using LLMs, and raises PRs after every push.
+- **Stack:** GitHub APIs, Node.js, OpenAI, Webhooks  
+- **Status:** Prototype
+
+---
+
+### [MarketFlux](https://github.com/shreyas-omkar/MarketFlux)
+**Dashboard for Amazon/Flipkart Vendors**
+- **Description:** Central platform to track, advertise, and manage inventory via SP-API and Flipkart API.
+- **Stack:** MERN stack, Amazon SP-API, Flipkart API  
+- **Status:** Private Beta
+
+---
+
+### [Void Pass](https://github.com/shreyas-omkar/VoidPass)
+**AI-Selective Decryption & Auth API**
+- **Description:** Encrypts data, splits keys (client/server), and uses AI to return only non-sensitive data upon decryption.
+- **Stack:** Node.js, Express, Thirdweb, Polygon  
+- **Status:** In progress
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-omkar&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyas-omkar-hegde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shreyas_omkar_hegde"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/shreyas.hegde.923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 Current Project:
-**MarketFlux**:  
-- **Description:** A platform for Amazon and Flipkart vendors to control, market, and monitor their inventory.  
-- **Tech Stack:** MERN stack, Amazon SP-API, Flipkart API.  
-- **Status:** Currently private. If you're interested in collaborating, email me at **shreyashegdeplus06@gmail.com**.  
-- **Live Product:** Coming soon!  
-
----
-
-## 📊 GitHub Stats:
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyas-omkar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/shreyas_omkar_hegde)  
-[![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)](https://www.facebook.com/shreyas.hegde.923)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreyas-omkar-hegde)  
-
----
-
-## 💌 Contact Me:
-- 📧 Email: shreyashegdeplus06@gmail.com  
-
----
-## ⌨️ Typing...
-
-![Typing GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGplNjNtbmZjenM4b2o2bno1cmhsdXc2dHR5aTY0NDVyb3g3YTJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cd3NTHbEBDfuE/giphy.gif)
-
----
-
+<p align="center">Built with love | Coded with passion | Powered by curiosity</p>
