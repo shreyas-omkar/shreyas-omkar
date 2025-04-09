@@ -37,7 +37,7 @@ Here are a few things I've been building:
 **Real-time salary payout platform based on work contribution**
 - **Description:** Calculates payout by tracking GitHub, Jira, and Slack activity. Offers ML-backed budgeting insights.
 - **Stack:** React, Node.js, MongoDB, Thirdweb, Polygon  
-- **Status:** In development
+- **Status:** Hackathon Project
 
 ---
 
@@ -45,7 +45,7 @@ Here are a few things I've been building:
 **AI CI/CD Bot for Developers**
 - **Description:** A GitHub App that auto-fixes errors, optimizes code using LLMs, and raises PRs after every push.
 - **Stack:** GitHub APIs, Node.js, OpenAI, Webhooks  
-- **Status:** Prototype
+- **Status:** Hackathon Project
 
 ---
 
@@ -61,7 +61,7 @@ Here are a few things I've been building:
 **AI-Selective Decryption & Auth API**
 - **Description:** Encrypts data, splits keys (client/server), and uses AI to return only non-sensitive data upon decryption.
 - **Stack:** Node.js, Express, Thirdweb, Polygon  
-- **Status:** In progress
+- **Status:** API Ready.
 
 ---
 
