@@ -151,10 +151,7 @@ $ connect --social
   <a href="https://www.instagram.com/shreyas_omkar_hegde"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/shreyas.hegde.923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 </p>
+<br>
+<h3 align="center">＄ 𝚎𝚌𝚑𝚘 "𝙱𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ｜ 𝙲𝚘𝚍𝚎𝚍 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 ｜ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
+</h3>
 
-```
-$ echo "Built with love | Coded with passion | Powered by curiosity"
-```
-
-
-```
