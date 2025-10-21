@@ -139,6 +139,15 @@ $ stats --github
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&layout=compact&theme=merko&hide_border=false&hide=css" height="180px"/>
 </div>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&theme=merko&hide_border=false">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas-omkar&theme=merko&hide_border=false">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas-omkar&theme=merko&hide_border=false">
+</p>
+
 
 ---
 
