@@ -41,7 +41,7 @@ $ ls -la ~/skills
 
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂</span></h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,zig,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,zig,bash,js,ts" />
 </div>
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙵𝚁𝙰𝙼𝙴𝚆𝙾𝚁𝙺𝚂, 𝙻𝙸𝙱𝚁𝙰𝚁𝙸𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂</span></h3>
 <div align="center">
