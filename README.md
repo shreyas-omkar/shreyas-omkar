@@ -17,23 +17,19 @@
 ```
 $ whoami
 ```
+𝙲𝚘𝚖𝚙𝚒𝚕𝚎𝚛 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙶𝚎𝚎𝚔
 
-
-**𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚘𝚛 | 𝙱𝚞𝚒𝚕𝚍𝚎𝚛**
-
-
-
- ---
 
 ```
 $ cat about_me.txt
 ```
 
-- 🚀 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚖𝚙𝚊𝚌𝚝𝚏𝚞𝚕 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚊𝚌𝚛𝚘𝚜𝚜 𝚍𝚘𝚖𝚊𝚒𝚗𝚜—𝚏𝚛𝚘𝚖 𝚜𝚝𝚊𝚛𝚝𝚞𝚙𝚜 𝚝𝚘 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗𝚜.
-- 🔍 𝙻𝚘𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚒𝚗𝚐, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚜𝚘𝚕𝚟𝚎 𝚛𝚎𝚊𝚕 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜.
-- 🖥️ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙼𝚊𝚛𝚔𝚎𝚝𝙵𝚕𝚞𝚡, 𝚊 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝙰𝚖𝚊𝚣𝚘𝚗 𝚊𝚗𝚍 𝙵𝚕𝚒𝚙𝚔𝚊𝚛𝚝 𝚟𝚎𝚗𝚍𝚘𝚛𝚜.
-- 🔐 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚆𝚎𝚋𝟹 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜, 𝙰𝙿𝙸𝚜, 𝚊𝚗𝚍 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.
-- 🚗 𝙲𝚊𝚛 𝚗𝚎𝚛𝚍 | ✈️ 𝚃𝚛𝚊𝚟𝚎𝚕𝚎𝚛 | ☕ 𝙲𝚘𝚏𝚏𝚎𝚎 = 𝙲𝚘𝚍𝚎 𝚏𝚞𝚎𝚕
+- 𝙸 𝚋𝚞𝚒𝚕𝚍 𝚌𝚘𝚖𝚙𝚒𝚕𝚎𝚛𝚜, 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚊𝚗𝚍 𝚕𝚘𝚠–𝚕𝚎𝚟𝚎𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚊𝚌𝚝𝚞𝚊𝚕𝚕𝚢 𝚙𝚞𝚜𝚑 𝚖𝚊𝚌𝚑𝚒𝚗𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚘𝚕 𝚜𝚝𝚞𝚏𝚏.
+- 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝙲𝙾𝙼𝙿𝙸𝙻𝙴𝚁𝚂, 𝙻𝙻𝚅𝙼, 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎, 𝚊𝚗𝚍 𝚠𝚑𝚎𝚗 𝚌𝚘𝚍𝚎 𝚑𝚒𝚝𝚜 𝚑𝚊𝚛𝚍𝚠𝚊𝚛𝚎 𝚠𝚒𝚝𝚑 𝚐𝚛𝚊𝚌𝚎. \n
+- 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚌𝚘𝚖𝚙𝚒𝚕𝚎𝚛𝚜, 𝙷𝙿𝙲 𝚛𝚞𝚗𝚝𝚒𝚖𝚎𝚜, 𝚊𝚗𝚍 𝚕𝚘𝚠–𝚕𝚎𝚟𝚎𝚕 𝚝𝚘𝚘𝚕𝚜 𝚝𝚑𝚊𝚝 𝚖𝚊𝚔𝚎 𝚌𝚘𝚍𝚎 𝚏𝚊𝚜𝚝𝚎𝚛, 𝚜𝚖𝚊𝚛𝚝𝚎𝚛, 𝚊𝚗𝚍 𝚊 𝚕𝚘𝚝 𝚖𝚘𝚛𝚎 𝚎𝚕𝚎𝚐𝚊𝚗𝚝.
+- 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙻𝙻𝚅𝙼 𝙸𝚁, 𝟺𝚑𝚎𝚊𝚍 of 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜, 𝙷𝙿𝙲, RoCm 𝙶𝙿𝚄 𝚌𝚘𝚖𝚙𝚞𝚝𝚎, 𝚊𝚗𝚍 𝚛𝚎𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐.
+- 𝚈𝚎𝚜, 𝙸 𝚜𝚝𝚒𝚕𝚕 𝚝𝚘𝚞𝚌𝚑 𝚠𝚎𝚋 𝚝𝚑𝚒𝚗𝚐𝚜, 𝚋𝚞𝚝 𝚝𝚑𝚎 𝚑𝚎𝚊𝚛𝚝 𝚊𝚗𝚍 𝚜𝚘𝚞𝚕 𝚒𝚜 𝚌𝚕𝚘𝚜𝚎𝚛 𝚝𝚘 𝚋𝚒𝚝𝚜, 𝚋𝚢𝚝𝚎𝚜, 𝚊𝚗𝚍 𝚖𝚎𝚖𝚘𝚛𝚢 𝚠𝚒𝚣𝚊𝚛𝚍𝚛𝚢.
+- 𝙲𝚊𝚛 𝚗𝚎𝚛𝚍 | 𝚃𝚛𝚊𝚟𝚎𝚕𝚕𝚎𝚛 | 𝙲𝚘𝚍𝚎 𝚛𝚞𝚗𝚜 𝚘𝚗 𝚌𝚘𝚏𝚏𝚎𝚎, 𝚊𝚗𝚍 𝚜𝚘 𝚍𝚘 𝙸
 
 
 
@@ -53,101 +49,28 @@ $ ls -la ~/skills
 
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂</span></h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,zig,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,c,zig,html,css,bash" />
 </div>
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙵𝚁𝙰𝙼𝙴𝚆𝙾𝚁𝙺𝚂, 𝙻𝙸𝙱𝚁𝙰𝚁𝙸𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂</span></h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,netlify,postman,figma,vscode,polygon,thirdweb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,netlify,postman,figma,vscode,polygon,thirdweb,llvm" />
 </div>
 
 
 ---
 
-```
-$ ./show_projects.sh
-
-██╗     ██╗ ██████╗ ██╗   ██╗██╗██████╗ ██████╗  █████╗ ██╗   ██╗
-██║     ██║██╔═══██╗██║   ██║██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
-██║     ██║██║   ██║██║   ██║██║██║  ██║██████╔╝███████║ ╚████╔╝ 
-██║     ██║██║▄▄ ██║██║   ██║██║██║  ██║██╔═══╝ ██╔══██║  ╚██╔╝  
-███████╗██║╚██████╔╝╚██████╔╝██║██████╔╝██║     ██║  ██║   ██║   
-╚══════╝╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝
-```
-                                            
-- **𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗** : 𝚁𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚜𝚊𝚕𝚊𝚛𝚢 𝚙𝚊𝚢𝚘𝚞𝚝 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚋𝚊𝚜𝚎𝚍 𝚘𝚗 𝚠𝚘𝚛𝚔 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗  
-- **𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜** : 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚎𝚜 𝚙𝚊𝚢𝚘𝚞𝚝 𝚋𝚢 𝚝𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝙶𝚒𝚝𝙷𝚞𝚋, 𝙹𝚒𝚛𝚊, 𝚊𝚗𝚍 𝚂𝚕𝚊𝚌𝚔 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚠𝚒𝚝𝚑 𝙼𝙻-𝚋𝚊𝚌𝚔𝚎𝚍 𝚋𝚞𝚍𝚐𝚎𝚝𝚒𝚗𝚐 𝚒𝚗𝚜𝚒𝚐𝚑𝚝𝚜  
-- **𝚂𝚝𝚊𝚌𝚔** : 𝚁𝚎𝚊𝚌𝚝, 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱, 𝚃𝚑𝚒𝚛𝚍𝚆𝚎𝚋, 𝙿𝚘𝚕𝚢𝚐𝚘𝚗  
-- **𝚂𝚝𝚊𝚝𝚞𝚜** : 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚓𝚎𝚌𝚝  
-
-
-```
-███████╗ ██████╗██████╗ ██╗██████╗ ████████╗ ██████╗  ██████╗ ██████╗ ██╗     
-██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝██╔═══██╗██╔════╝██╔═══██╗██║     
-███████╗██║     ██████╔╝██║██████╔╝   ██║   ██║   ██║██║     ██║   ██║██║     
-╚════██║██║     ██╔══██╗██║██╔═══╝    ██║   ██║   ██║██║     ██║   ██║██║     
-███████║╚██████╗██║  ██║██║██║        ██║   ╚██████╔╝╚██████╗╚██████╔╝███████╗
-╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
-```
-                                                                                
-- **𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗** : 𝙰𝙸 𝙲𝙸⁄𝙲𝙳 𝙱𝚘𝚝 𝚏𝚘𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜  
-- **𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜** : 𝙰 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚙𝚙 𝚝𝚑𝚊𝚝 𝚊𝚞𝚝𝚘-𝚏𝚒𝚡𝚎𝚜 𝚎𝚛𝚛𝚘𝚛𝚜, 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚎𝚜 𝚌𝚘𝚍𝚎 𝚞𝚜𝚒𝚗𝚐 𝙻𝙻𝙼𝚜, 𝚊𝚗𝚍 𝚛𝚊𝚒𝚜𝚎𝚜 𝙿𝚁𝚜 𝚊𝚏𝚝𝚎𝚛 𝚎𝚟𝚎𝚛𝚢 𝚙𝚞𝚜𝚑  
-- **𝚂𝚝𝚊𝚌𝚔** : 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸𝚜, 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙾𝚙𝚎𝚗𝙰𝙸, 𝚆𝚎𝚋𝚑𝚘𝚘𝚔𝚜  
-- **𝚂𝚝𝚊𝚝𝚞𝚜** : 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚓𝚎𝚌𝚝  
-
-
-```
-███╗   ███╗ █████╗ ██████╗ ██╗  ██╗███████╗████████╗███████╗██╗     ██╗   ██╗██╗  ██╗
-████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚══██╔══╝██╔════╝██║     ██║   ██║╚██╗██╔╝
-██╔████╔██║███████║██████╔╝█████╔╝ █████╗     ██║   █████╗  ██║     ██║   ██║ ╚███╔╝ 
-██║╚██╔╝██║██╔══██║██╔══██╗██╔═██╗ ██╔══╝     ██║   ██╔══╝  ██║     ██║   ██║ ██╔██╗ 
-██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██╗███████╗   ██║   ██║     ███████╗╚██████╔╝██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-                                                                                     
-```
-- **𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗** : 𝙳𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍 𝚏𝚘𝚛 𝙰𝚖𝚊𝚣𝚘𝚗⁄𝙵𝚕𝚒𝚙𝚔𝚊𝚛𝚝 𝚅𝚎𝚗𝚍𝚘𝚛𝚜  
-- **𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜** : 𝙲𝚎𝚗𝚝𝚛𝚊𝚕 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚝𝚘 𝚝𝚛𝚊𝚌𝚔, 𝚊𝚍𝚟𝚎𝚛𝚝𝚒𝚜𝚎, 𝚊𝚗𝚍 𝚖𝚊𝚗𝚊𝚐𝚎 𝚒𝚗𝚟𝚎𝚗𝚝𝚘𝚛𝚢 𝚟𝚒𝚊 𝚂𝙿-𝙰𝙿𝙸 𝚊𝚗𝚍 𝙵𝚕𝚒𝚙𝚔𝚊𝚛𝚝 𝙰𝙿𝙸  
-- **𝚂𝚝𝚊𝚌𝚔** : 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔, 𝙰𝚖𝚊𝚣𝚘𝚗 𝚂𝙿-𝙰𝙿𝙸, 𝙵𝚕𝚒𝚙𝚔𝚊𝚛𝚝 𝙰𝙿𝙸  
-- **𝚂𝚝𝚊𝚝𝚞𝚜** : 𝙿𝚛𝚒𝚟𝚊𝚝𝚎 𝙱𝚎𝚝𝚊  
-
-
-```
-██╗   ██╗ ██████╗ ██╗██████╗     ██████╗  █████╗ ███████╗███████╗
-██║   ██║██╔═══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔════╝██╔════╝
-██║   ██║██║   ██║██║██║  ██║    ██████╔╝███████║███████╗███████╗
-╚██╗ ██╔╝██║   ██║██║██║  ██║    ██╔═══╝ ██╔══██║╚════██║╚════██║
- ╚████╔╝ ╚██████╔╝██║██████╔╝    ██║     ██║  ██║███████║███████║
-  ╚═══╝   ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
- ```
-
-
-                                                                 
-- **𝙳𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗** : 𝙰𝙸-𝚂𝚎𝚕𝚎𝚌𝚝𝚒𝚟𝚎 𝙳𝚎𝚌𝚛𝚢𝚙𝚝𝚒𝚘𝚗 & 𝙰𝚞𝚝𝚑 𝙰𝙿𝙸  
-- **𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜** : 𝙴𝚗𝚌𝚛𝚢𝚙𝚝𝚜 𝚍𝚊𝚝𝚊, 𝚜𝚙𝚕𝚒𝚝𝚜 𝚔𝚎𝚢𝚜, 𝚊𝚗𝚍 𝚞𝚜𝚎𝚜 𝙰𝙸 𝚝𝚘 𝚛𝚎𝚝𝚞𝚛𝚗 𝚘𝚗𝚕𝚢 𝚗𝚘𝚗-𝚜𝚎𝚗𝚜𝚒𝚝𝚒𝚟𝚎 𝚍𝚊𝚝𝚊 𝚞𝚙𝚘𝚗 𝚍𝚎𝚌𝚛𝚢𝚙𝚝𝚒𝚘𝚗  
-- **𝚂𝚝𝚊𝚌𝚔** : 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙴𝚡𝚙𝚛𝚎𝚜𝚜, 𝚃𝚑𝚒𝚛𝚍𝚆𝚎𝚋, 𝙿𝚘𝚕𝚢𝚐𝚘𝚗  
-- **𝚂𝚝𝚊𝚝𝚞𝚜** : 𝙰𝙿𝙸 𝚁𝚎𝚊𝚍𝚢  
-
-
-
-
----
 
 ```
 $ stats --github
 ```
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-omkar&show_icons=true&theme=merko&hide_border=false&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&layout=compact&theme=merko&hide_border=false&hide=css" height="180px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&layout=compact&theme=merko&hide_border=false&hide=css"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas-omkar&theme=merko&hide_border=false&hide=css">
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&theme=merko&hide_border=false">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas-omkar&theme=merko&hide_border=false">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&theme=merko&hide_border=false"> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas-omkar&theme=merko&hide_border=false">
-</p>
-
 
 ---
 
@@ -156,11 +79,11 @@ $ connect --social
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyas-omkar-hegde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shreyas_omkar_hegde"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/shreyas.hegde.923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreyas-omkar-hegde"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 <br>
 <h3 align="center">＄ 𝚎𝚌𝚑𝚘 "𝙱𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ｜ 𝙲𝚘𝚍𝚎𝚍 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 ｜ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
 </h3>
+
+[![An image of @shreyasomkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyasomkar)](https://holopin.io/@shreyasomkar)
 
