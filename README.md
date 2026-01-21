@@ -56,7 +56,6 @@ $ ls -la ~/skills
 $ stats --github
 ```
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-omkar&layout=compact&theme=merko&hide_border=false&hide=css"/>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas-omkar&theme=merko&hide_border=false&hide=css">
 </div>
 
