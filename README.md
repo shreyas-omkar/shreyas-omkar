@@ -71,7 +71,9 @@ $ connect --social
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyas-omkar-hegde"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://gmail.com/shreyashegde@acm.org"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:shreyashegde@acm.org">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email Shreyas" />
+</a>
 </p>
 <br>
 <h3 align="center">＄ 𝚎𝚌𝚑𝚘 "𝙱𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ｜ 𝙲𝚘𝚍𝚎𝚍 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 ｜ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
