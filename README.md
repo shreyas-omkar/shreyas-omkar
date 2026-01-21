@@ -41,13 +41,17 @@ $ ls -la ~/skills
 
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂</span></h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,zig,bash,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,c,zig,bash,julia" />
 </div>
 <h3 align="center"><span style="color: #00ff00; font-weight: bold">𝙵𝚁𝙰𝙼𝙴𝚆𝙾𝚁𝙺𝚂, 𝙻𝙸𝙱𝚁𝙰𝚁𝙸𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂</span></h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,git,github,polygon,thirdweb" />
-</div>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,cmake,vim"/>
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/GDB-Debugger-blue?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLVM-Compiler_Infra-181717?style=for-the-badge&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCC-Compiler-green?style=for-the-badge&logo=gnu&logoColor=white" />
+</div>  
 
 ---
 
@@ -55,12 +59,8 @@ $ ls -la ~/skills
 ```
 $ stats --github
 ```
-<div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyas-omkar&theme=merko&hide_border=false&hide=css">
-</div>
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&theme=merko&hide_border=false"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&hide_border=false&theme=github_dark"> 
 </p>
 
 ---
@@ -71,7 +71,7 @@ $ connect --social
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyas-omkar-hegde"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://gmail.com/shreyashegdeplus06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://gmail.com/shreyashegde@acm.org"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 <br>
 <h3 align="center">＄ 𝚎𝚌𝚑𝚘 "𝙱𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ｜ 𝙲𝚘𝚍𝚎𝚍 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 ｜ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢
