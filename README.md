@@ -59,8 +59,13 @@ $ ls -la ~/skills
 ```
 $ stats --github
 ```
+<br />
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyas-omkar&hide_border=false&theme=github_dark"> 
+</p>
+<br />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyas-omkar&theme=github_dark"> 
 </p>
 
 ---
