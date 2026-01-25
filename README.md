@@ -69,6 +69,16 @@ $ stats --github
 </p>
 
 ---
+```
+$ ls Common_Repos
+```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyas-omkar&repo=Steensgaard\&theme=dark#gh-dark-mode-only)](https://github.com/shreyas-omkar/Steensgaard) 
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pointblank-club&repo=SecureWipe\&theme=dark#gh-dark-mode-only)](https://github.com/pointblank-club/SecureWipe) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaGPU&repo=GPUArrays.jl\&theme=dark#gh-dark-mode-only)](https://github.com/JuliaGPU/GPUArrays.jl) <br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyas-omkar&repo=Lisp-Compiler\&theme=dark#gh-dark-mode-only)](https://github.com/shreyas-omkar/Lisp-Compiler)
+
+---
 
 ```
 $ connect --social
