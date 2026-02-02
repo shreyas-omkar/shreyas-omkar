@@ -1,0 +1,44 @@
+name: Update Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch PRs and Generate Table
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: shreyas-omkar
+        run: |
+          echo "# Open Source Contributions" > CONTRIBUTIONS.md
+          echo "" >> CONTRIBUTIONS.md
+          echo "| Repository | PR Title | Status | Link |" >> CONTRIBUTIONS.md
+          echo "|------------|----------|--------|------|" >> CONTRIBUTIONS.md
+
+          curl -s -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/search/issues?q=author:$USERNAME+type:pr&per_page=100" \
+            | jq -r '.items[] | 
+              "| \(.repository_url | split("/")[-1]) | \(.title | gsub("\\|"; "")) | \(.state) | [Link](\(.html_url)) |"' \
+            >> CONTRIBUTIONS.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add CONTRIBUTIONS.md
+          git commit -m "Update contributions table" || echo "No changes"
+          git push
