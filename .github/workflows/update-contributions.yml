@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add CONTRBUTIONS.md
+          git add CONTRIBUTIONS.md
           git commit -m "Update contributions table" || echo "No changes"
           git push
