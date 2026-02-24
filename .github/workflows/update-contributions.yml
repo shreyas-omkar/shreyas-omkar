@@ -37,16 +37,10 @@ jobs:
             | ($repo_url | split("/")[-1]) as $repo
             | select(
                 (
-                  $repo == "SecureWipe"
-                  or
-                  ($repo | test("GPUArrays.jl|julia|gccrs|emscripten"))
+                  ($repo | test("pb-|PB_|pointblank|ignito|hackman|placement|recruitment|website|admin|panel|server"; "i") | not)
                 )
-                and
-                (
-                  ($repo | test("^(pb-|PB_|pointblank)"; "i") | not)
-                  or
-                  $repo == "SecureWipe"
-                )
+                or
+                $repo == "SecureWipe"
               )
             | "| \($repo) | \(.title | gsub("\\|"; "")) | \(.state) | [Link](\(.html_url)) |"
           ' >> CONTRIBUTIONS.md
