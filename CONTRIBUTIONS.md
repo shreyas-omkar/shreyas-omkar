@@ -12,3 +12,4 @@
 | emscripten | [memoryprofiler] Add CSS class to parent div | closed | [Link](https://github.com/emscripten-core/emscripten/pull/25595) |
 | gccrs | gccrs: Fix ICE in no input file | open | [Link](https://github.com/Rust-GCC/gccrs/pull/4240) |
 | gccrs | gcc: Prevent ICE on no input file | closed | [Link](https://github.com/Rust-GCC/gccrs/pull/4203) |
+| shreyas-omkar | Update README.md | closed | [Link](https://github.com/shreyas-omkar/shreyas-omkar/pull/1) |
