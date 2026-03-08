@@ -2,7 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| GPUArrays.jl | feat: add GPU-native kron support for Diagonal matrices | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/690) |
+| GPUArrays.jl | feat: add GPU-native kron support for Diagonal matrices | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/690) |
 | cuTile.jl | Add alias-aware token threading for memory operations. | open | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/89) |
 | gccrs | gccrs: avoid ICE when canonical path record is missing | open | [Link](https://github.com/Rust-GCC/gccrs/pull/4415) |
 | GPUArrays.jl | fix: Specialized ReshapedArray dispatch to resolve setindex! ambiguities | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/680) |
