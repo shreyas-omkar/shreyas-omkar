@@ -67,6 +67,10 @@ $ stats --github
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyas-omkar&theme=github_dark"> 
 </p>
+<br />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyas-omkar&theme=github_dark&exclude=javascript,typescript">
+</p>
 
 ---
 ```
@@ -104,7 +108,9 @@ $ ls Projects
   </a>
 </div>
 
-
+ <tr>
+      
+ </tr>
 
 ---
 
