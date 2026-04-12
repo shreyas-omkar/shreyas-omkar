@@ -2,6 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| cuTile.jl | Subtype AbstractArray for TileArray | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/176) |
 | SiMG | added comparison engine | closed | [Link](https://github.com/ShreyashSri/SiMG/pull/1) |
 | GPUArrays.jl | feat: add GPU-native kron support for Diagonal matrices | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/690) |
 | cuTile.jl | Add alias-aware token threading for memory operations. | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/89) |
