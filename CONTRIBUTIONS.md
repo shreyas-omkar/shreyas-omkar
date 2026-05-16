@@ -7,7 +7,7 @@
 | GPUArrays.jl | feat: add GPU-native kron support for Diagonal matrices | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/690) |
 | cuTile.jl | Add alias-aware token threading for memory operations. | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/89) |
 | gccrs | gccrs: avoid ICE when canonical path record is missing | open | [Link](https://github.com/Rust-GCC/gccrs/pull/4415) |
-| GPUArrays.jl | fix: Specialized ReshapedArray dispatch to resolve setindex! ambiguities | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/680) |
+| GPUArrays.jl | Specialize ReshapedArray to resolve `setindex!` ambiguities | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/680) |
 | GPUArrays.jl | feat: Implement issorted for AbstractGPUArray without scalar indexing. | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/678) |
 | julia | Fix OutOfMemory in arrayshow with unsigned indices | open | [Link](https://github.com/JuliaLang/julia/pull/59925) |
 | emscripten | [memoryprofiler] Add CSS class to parent div | closed | [Link](https://github.com/emscripten-core/emscripten/pull/25595) |
