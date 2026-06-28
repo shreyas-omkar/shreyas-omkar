@@ -2,6 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | Optimising `sortperm!` | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
 | GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
 | AcceleratedKernels.jl | Expand dimensional `mapreduce` / `reduce` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/83) |
 | cuTile.jl | Subtype AbstractArray for TileArray | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/176) |
