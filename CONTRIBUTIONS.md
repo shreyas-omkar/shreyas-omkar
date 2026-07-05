@@ -2,7 +2,9 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| AcceleratedKernels.jl | Optimising `sortperm!` | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
+| AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
+| KernelAbstractions.jl | feat(intrinsics): add KI.vload / KI.vstore! for wide vector memory operations | open | [Link](https://github.com/JuliaGPU/KernelAbstractions.jl/pull/719) |
+| AcceleratedKernels.jl | Add opt-in GPU radix sort via sort alg keyword | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
 | GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
 | AcceleratedKernels.jl | Expand dimensional `mapreduce` / `reduce` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/83) |
 | cuTile.jl | Subtype AbstractArray for TileArray | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/176) |
