@@ -2,7 +2,8 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
+| AcceleratedKernels.jl | Optimize Radix Sort. | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/97) |
+| AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
 | KernelAbstractions.jl | feat(intrinsics): add KI.vload / KI.vstore! for wide vector memory operations | open | [Link](https://github.com/JuliaGPU/KernelAbstractions.jl/pull/719) |
 | AcceleratedKernels.jl | Add opt-in GPU radix sort via sort alg keyword | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
 | GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
@@ -14,6 +15,7 @@
 | gccrs | gccrs: avoid ICE when canonical path record is missing | open | [Link](https://github.com/Rust-GCC/gccrs/pull/4415) |
 | GPUArrays.jl | Specialize ReshapedArray to resolve `setindex!` ambiguities | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/680) |
 | GPUArrays.jl | feat: Implement issorted for AbstractGPUArray without scalar indexing. | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/678) |
+| SecureWipe | Revise README for clarity and additional details | closed | [Link](https://github.com/pointblank-club/SecureWipe/pull/1) |
 | julia | Fix OutOfMemory in arrayshow with unsigned indices | open | [Link](https://github.com/JuliaLang/julia/pull/59925) |
 | emscripten | [memoryprofiler] Add CSS class to parent div | closed | [Link](https://github.com/emscripten-core/emscripten/pull/25595) |
 | gccrs | gccrs: Fix ICE in no input file | open | [Link](https://github.com/Rust-GCC/gccrs/pull/4240) |
