@@ -2,6 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | Fix DecoupledLookback cross-block coherence (completes #91) | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/98) |
 | AcceleratedKernels.jl | Optimize Radix Sort. | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/97) |
 | AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
 | KernelAbstractions.jl | feat(intrinsics): add KI.vload / KI.vstore! for wide vector memory operations | open | [Link](https://github.com/JuliaGPU/KernelAbstractions.jl/pull/719) |
