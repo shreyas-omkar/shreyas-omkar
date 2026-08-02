@@ -2,6 +2,9 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | perf(mapreduce): vectorized SIMD.jl loads for stride-1 by_block redution | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/105) |
+| AcceleratedKernels.jl | ci(opencl): run POCL under --check-bounds=auto; skip scan on POCL | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/104) |
+| AcceleratedKernels.jl | Fix OpenCL/POCL CI: run under --check-bounds=auto, skip scan on POCL | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/103) |
 | AcceleratedKernels.jl | Add reverse! and reverse | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/102) |
 | AcceleratedKernels.jl | Fix DecoupledLookback cross-block coherence (completes #91) | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/98) |
 | AcceleratedKernels.jl | Optimize Radix Sort. | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/97) |
