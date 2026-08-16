@@ -2,10 +2,11 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | fix(accumulate): keep GPU scans uniform and non-divergent across backends | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/112) |
 | AcceleratedKernels.jl | perf(scan): register-raking items-per-thread GPU prefix scan | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/108) |
 | AcceleratedKernels.jl | Add compile-time tiling primitive and use it in the 1D reduce | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/107) |
 | AcceleratedKernels.jl | perf(mapreduce): vectorized SIMD.jl loads for stride-1 by_block redution | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/105) |
-| AcceleratedKernels.jl | ci(opencl): run POCL under --check-bounds=auto; skip scan on POCL | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/104) |
+| AcceleratedKernels.jl | ci(opencl): run POCL under --check-bounds=auto; skip scan on POCL | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/104) |
 | AcceleratedKernels.jl | Fix OpenCL/POCL CI: run under --check-bounds=auto, skip scan on POCL | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/103) |
 | AcceleratedKernels.jl | Add reverse! and reverse | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/102) |
 | AcceleratedKernels.jl | Fix DecoupledLookback cross-block coherence (completes #91) | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/98) |
