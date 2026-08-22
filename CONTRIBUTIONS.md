@@ -2,15 +2,18 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | Fix DecoupledLookback with a device-scope memory fence | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/116) |
+| AcceleratedKernels.jl | feat(findall): Add findall kernel | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/115) |
+| AcceleratedKernels.jl | feat(reverse): Add dims support to reverse | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/114) |
 | AcceleratedKernels.jl | fix(accumulate): keep GPU scans uniform and non-divergent across backends | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/112) |
-| AcceleratedKernels.jl | perf(scan): register-raking items-per-thread GPU prefix scan | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/108) |
-| AcceleratedKernels.jl | Add compile-time tiling primitive and use it in the 1D reduce | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/107) |
-| AcceleratedKernels.jl | perf(mapreduce): vectorized SIMD.jl loads for stride-1 by_block redution | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/105) |
+| AcceleratedKernels.jl | Make GPU scans process multiple items per thread | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/108) |
+| AcceleratedKernels.jl | Make GPU reductions process multiple items per thread | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/107) |
+| AcceleratedKernels.jl | Reduce: vectorize contiguous by-block loads | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/105) |
 | AcceleratedKernels.jl | ci(opencl): run POCL under --check-bounds=auto; skip scan on POCL | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/104) |
 | AcceleratedKernels.jl | Fix OpenCL/POCL CI: run under --check-bounds=auto, skip scan on POCL | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/103) |
 | AcceleratedKernels.jl | Add reverse! and reverse | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/102) |
 | AcceleratedKernels.jl | Fix DecoupledLookback cross-block coherence (completes #91) | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/98) |
-| AcceleratedKernels.jl | Optimize Radix Sort. | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/97) |
+| AcceleratedKernels.jl | Optimize Radix sort. | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/97) |
 | AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
 | KernelAbstractions.jl | feat(intrinsics): add KI.vload / KI.vstore! for wide vector memory operations | open | [Link](https://github.com/JuliaGPU/KernelAbstractions.jl/pull/719) |
 | AcceleratedKernels.jl | Add opt-in GPU radix sort via sort alg keyword | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
