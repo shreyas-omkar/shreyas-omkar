@@ -2,6 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | Add dims support to sort, sort!, sortperm and sortperm! | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/117) |
 | AcceleratedKernels.jl | Fix DecoupledLookback with a device-scope memory fence | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/116) |
 | AcceleratedKernels.jl | feat(findall): Add findall kernel | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/115) |
 | AcceleratedKernels.jl | feat(reverse): Add dims support to reverse | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/114) |
