@@ -2,6 +2,8 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| AcceleratedKernels.jl | feat(reverse): reverse a linear sub-range via start/stop | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/119) |
+| AcceleratedKernels.jl | perf(reverse): use a dedicated kernel for the dims reversal | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/118) |
 | AcceleratedKernels.jl | Add dims support to sort, sort!, sortperm and sortperm! | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/117) |
 | AcceleratedKernels.jl | Fix DecoupledLookback with a device-scope memory fence | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/116) |
 | AcceleratedKernels.jl | feat(findall): Add findall kernel | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/115) |
