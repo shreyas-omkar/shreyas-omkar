@@ -2,11 +2,15 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| AcceleratedKernels.jl | perf(sort): packed-key fast path for sort(A; dims=1) | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/121) |
+| segfault26 | feat: add accelerator backend on LLDB's accelerator-plugin framework | open | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/25) |
+| segfault26 | feat: add OpenCL vector type support to variable inspection | closed | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/23) |
+| GPUArrays.jl | Add a sorting interface | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/776) |
+| AcceleratedKernels.jl | Add `BitonicSort`, a GPU sorting network for small arrays and short slices | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/126) |
+| AcceleratedKernels.jl | perf(sort): packed-key fast path for sort(A; dims=1) | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/121) |
 | AMDGPU.jl | Guard empty-array launch in out-of-place reverse | closed | [Link](https://github.com/JuliaGPU/AMDGPU.jl/pull/1069) |
 | AcceleratedKernels.jl | Add `start`/`stop` keywords to `reverse` and `reverse!` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/119) |
 | AcceleratedKernels.jl | perf(reverse): use a dedicated kernel for the dims reversal | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/118) |
-| AcceleratedKernels.jl | Add dims support to sort, sort!, sortperm and sortperm! | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/117) |
+| AcceleratedKernels.jl | Add `dims` support to `sort`, `sort!`, `sortperm` and `sortperm!` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/117) |
 | AcceleratedKernels.jl | Fix DecoupledLookback with a device-scope memory fence | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/116) |
 | AcceleratedKernels.jl | feat(findall): Add findall kernel | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/115) |
 | AcceleratedKernels.jl | Add `dims` support to `reverse` and `reverse!` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/114) |
@@ -22,7 +26,7 @@
 | AcceleratedKernels.jl | Optimize GPU radix sort: ballot kernels, fused range, skip-pass, tuning | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/93) |
 | KernelAbstractions.jl | feat(intrinsics): add KI.vload / KI.vstore! for wide vector memory operations | closed | [Link](https://github.com/JuliaGPU/KernelAbstractions.jl/pull/719) |
 | AcceleratedKernels.jl | Add opt-in GPU radix sort via sort alg keyword | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
-| GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
+| GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
 | AcceleratedKernels.jl | Expand dimensional `mapreduce` / `reduce` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/83) |
 | cuTile.jl | Subtype AbstractArray for TileArray | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/176) |
 | SiMG | added comparison engine | closed | [Link](https://github.com/ShreyashSri/SiMG/pull/1) |
