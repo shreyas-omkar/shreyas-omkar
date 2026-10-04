@@ -2,11 +2,11 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| AcceleratedKernels.jl | feat: Add multi-argument map and map! | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/130) |
-| AcceleratedKernels.jl | feat: Support sort(A; dims=1) in RadixSort via a segmented radix | open | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/129) |
-| GPUArrays.jl | feat: `sort `/ `sort!` delegated to AcceleratedKernels | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/788) |
-| GPUArrays.jl | feat: Add accumulate, cumsum and cumprod using AcceleratedKernels | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/787) |
-| GPUArrays.jl | feat: Adding `Base.reverse` / `reverse!` support using AcceleratedKernels.jl | open | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/786) |
+| AcceleratedKernels.jl | Let `map` and `map!` take several source arrays | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/130) |
+| AcceleratedKernels.jl | Sort along `dims` with RadixSort | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/129) |
+| GPUArrays.jl | feat: `sort `/ `sort!` delegated to AcceleratedKernels | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/788) |
+| GPUArrays.jl | feat: Add accumulate, cumsum and cumprod using AcceleratedKernels | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/787) |
+| GPUArrays.jl | feat: Adding `Base.reverse` / `reverse!` support using AcceleratedKernels.jl | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/786) |
 | segfault26 | feat: add accelerator backend on LLDB's accelerator-plugin framework | open | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/25) |
 | segfault26 | feat: add OpenCL vector type support to variable inspection | closed | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/23) |
 | GPUArrays.jl | Add a sorting interface | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/776) |
