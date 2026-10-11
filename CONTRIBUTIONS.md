@@ -2,11 +2,19 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| Forge | docs: Oct 2026 benchmark results — 20/20 MIPLIB, 45 Optimal QPLIB | open | [Link](https://github.com/YashSuthar983/Forge/pull/21) |
+| JOCKY | toolchain: fix device-agnostic Windows cross-compilation | closed | [Link](https://github.com/Incharajayaram/JOCKY/pull/45) |
+| Forge | docs: benchmark campaign — Netlib, MIPLIB-easy, all 453 QPLIB instances, vs HiGHS and SCIP | open | [Link](https://github.com/YashSuthar983/Forge/pull/16) |
+| Forge | perf: optimise the engines that actually exhaust the budget | open | [Link](https://github.com/YashSuthar983/Forge/pull/11) |
 | AcceleratedKernels.jl | Let `map` and `map!` take several source arrays | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/130) |
 | AcceleratedKernels.jl | Sort along `dims` with RadixSort | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/129) |
 | GPUArrays.jl | feat: `sort `/ `sort!` delegated to AcceleratedKernels | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/788) |
 | GPUArrays.jl | feat: Add accumulate, cumsum and cumprod using AcceleratedKernels | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/787) |
 | GPUArrays.jl | feat: Adding `Base.reverse` / `reverse!` support using AcceleratedKernels.jl | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/786) |
+| Forge | QPLIB: reader, quadratic engines, spatial branch-and-bound, and refinery blending models | closed | [Link](https://github.com/YashSuthar983/Forge/pull/8) |
+| Forge | docs: GPU Netlib evidence + handoff | closed | [Link](https://github.com/YashSuthar983/Forge/pull/7) |
+| Forge | GPU LP proves optimality on 92/93 Netlib; QPLIB reader, quadratic constraints, binary quadratic engine | closed | [Link](https://github.com/YashSuthar983/Forge/pull/6) |
+| Forge | Vendor solver_accl: standalone Julia engines behind a coarse-grained API | closed | [Link](https://github.com/YashSuthar983/Forge/pull/4) |
 | segfault26 | feat: add accelerator backend on LLDB's accelerator-plugin framework | open | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/25) |
 | segfault26 | feat: add OpenCL vector type support to variable inspection | closed | [Link](https://github.com/vishruth-thimmaiah/segfault26/pull/23) |
 | GPUArrays.jl | Add a sorting interface | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/776) |
@@ -33,6 +41,7 @@
 | AcceleratedKernels.jl | Add opt-in GPU radix sort via sort alg keyword | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/90) |
 | GPUArrays.jl | Delegate mapreducedim! to AcceleratedKernels.jl | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/725) |
 | AcceleratedKernels.jl | Expand dimensional `mapreduce` / `reduce` | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/83) |
+| moonshot | feat:added milr_oxcaml_bindings | closed | [Link](https://github.com/pointblank-club/moonshot/pull/1) |
 | cuTile.jl | Subtype AbstractArray for TileArray | closed | [Link](https://github.com/JuliaGPU/cuTile.jl/pull/176) |
 | SiMG | added comparison engine | closed | [Link](https://github.com/ShreyashSri/SiMG/pull/1) |
 | GPUArrays.jl | feat: add GPU-native kron support for Diagonal matrices | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/690) |
