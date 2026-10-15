@@ -2,6 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
+| juliagpu.org | Add GSoC 2026 final report post: portable data-parallel primitives for the Julia GPU stack | open | [Link](https://github.com/JuliaGPU/juliagpu.org/pull/65) |
 | Forge | docs: Oct 2026 benchmark results — 20/20 MIPLIB, 45 Optimal QPLIB | open | [Link](https://github.com/YashSuthar983/Forge/pull/21) |
 | JOCKY | toolchain: fix device-agnostic Windows cross-compilation | closed | [Link](https://github.com/Incharajayaram/JOCKY/pull/45) |
 | Forge | docs: benchmark campaign — Netlib, MIPLIB-easy, all 453 QPLIB instances, vs HiGHS and SCIP | open | [Link](https://github.com/YashSuthar983/Forge/pull/16) |
