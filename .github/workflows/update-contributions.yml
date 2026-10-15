@@ -37,7 +37,7 @@ jobs:
             | ($repo_url | split("/")[-1]) as $repo
             | select(
                 (
-                  ($repo | test("pb-|PB_|pointblank|ignito|hackman|placement|recruitment|website|admin|panel|server"; "i") | not)
+                  ($repo | test("pb-|PB_|pointblank|ignito|hackman|placement|recruitment|website|admin|panel|server|Forge|JOCKY|segfault26|moonshot"; "i") | not)
                 )
                 or
                 $repo == "SecureWipe"
