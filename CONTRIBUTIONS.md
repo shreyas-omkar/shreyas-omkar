@@ -2,7 +2,7 @@
 
 | Repository | PR Title | Status | Link |
 |------------|----------|--------|------|
-| juliagpu.org | Add GSoC 2026 final report post: portable data-parallel primitives for the Julia GPU stack | open | [Link](https://github.com/JuliaGPU/juliagpu.org/pull/65) |
+| juliagpu.org | Add GSoC 2026 report: portable data-parallel primitives | closed | [Link](https://github.com/JuliaGPU/juliagpu.org/pull/65) |
 | AcceleratedKernels.jl | Let `map` and `map!` take several source arrays | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/130) |
 | AcceleratedKernels.jl | Sort along `dims` with RadixSort | closed | [Link](https://github.com/JuliaGPU/AcceleratedKernels.jl/pull/129) |
 | GPUArrays.jl | feat: `sort `/ `sort!` delegated to AcceleratedKernels | closed | [Link](https://github.com/JuliaGPU/GPUArrays.jl/pull/788) |
